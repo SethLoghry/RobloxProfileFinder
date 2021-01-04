@@ -3,24 +3,14 @@ Yes, another thing for Roblox.
 
 ## Index
 1. Explanation
-2. Requirements
-3. Variables to be defined
-4. Running
-5. More things
+2. Variables to be defined
+3. Running
+4. More things
 
 ## Explanation
 This code will simply verify if a profile exists or not and if it does, it will output the profile ID to a file named "existent_profiles.txt". 
 
 Yes, that's basically it.
-
-## Requirements
-Yes, I know, this code has some little requirements. But they will be optional in the next commits.
-
-To install them just run:
-```
-pip3 install -r requirements.txt
-```
-The only requirement is to colored text. Very cool.
 
 ## Variables to be defined
 This code will run from all the profiles that you put in the following variables.
