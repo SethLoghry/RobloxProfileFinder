@@ -9,8 +9,8 @@ import http.client
 import os
 import sys
 
-starting_profile = 1
-end_profile = 10000000
+starting_profile = 2447931823
+end_profile = 2447931823
 
 class bcolors:
     GREEN = '\033[92m'
